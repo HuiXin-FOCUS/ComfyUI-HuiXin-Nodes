@@ -1,0 +1,11 @@
+[project]
+name = "comfyui-huixin-nodes"
+description = "汇心工具箱 - 专为电商设计、图像处理和多模态大模型辅助设计的 ComfyUI 插件包。"
+version = "1.0.0"
+authors = [
+    { name = "HuiXin" }
+]
+dependencies = ["torch", "numpy", "Pillow", "requests", "aiohttp"]
+
+[comfyui]
+nodes = ["__init__.py"]

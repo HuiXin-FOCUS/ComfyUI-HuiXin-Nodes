@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.idea/
+.vscode/
+# 忽略用户个人的配置文件
+huixin_prompts.json
+# 忽略上传的测试图片
+input/
+output/
