@@ -42,7 +42,7 @@ A comprehensive suite of ComfyUI nodes designed for E-commerce design, image pro
 
 &nbsp;  ```bash
 
-&nbsp;  git clone https://github.com/YourUsername/ComfyUI-HuiXin-Nodes.git
+&nbsp;  git clone https://github.com/HuiXin-FOCUS/ComfyUI-HuiXin-Nodes.git
 
 Install dependencies:
 
@@ -82,7 +82,7 @@ code
 
 Bash
 
-git clone https://github.com/你的用户名/ComfyUI-HuiXin-Nodes.git
+git clone https://github.com/HuiXin-FOCUS/ComfyUI-HuiXin-Nodes.git
 
 安装必要依赖：
 
